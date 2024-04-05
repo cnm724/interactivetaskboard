@@ -19,3 +19,12 @@ header {
 .task-card:hover {
   cursor: grab;
 }
+
+/* style project rows based on status (late, due today) */
+.project-late {
+  background-color: #e74c3c;
+}
+
+.project-today {
+  background-color: #fff5d1;
+}
