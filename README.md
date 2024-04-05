@@ -27,6 +27,7 @@ draggable/droppable feature ![draggable/droppable feature](./assets/screenshots/
 * https://getbootstrap.com/docs/5.3/components/modal/#how-it-works -modal in html
 * AI's xpert and gemini - helpful suggestions and resources
 * Vinnie (tutor) - collaborated on js code
+* Week 5 - Mini project
 
 ## License
 
